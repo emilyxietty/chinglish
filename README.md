@@ -6,8 +6,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/emilyxietty/chinglish">
-![tzuki128](https://user-images.githubusercontent.com/40601891/164949815-e100fd8b-c005-41e1-89ae-f8c3cae4170c.png)
 
+![78c8ea85ccc2bd8a5e2009947d7c94c9 jpg 48x48](https://user-images.githubusercontent.com/40601891/164949861-faaa7fc4-aa76-4161-b7d5-3508815e4d8d.png)
 
   </a>
 
