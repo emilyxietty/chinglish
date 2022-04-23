@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/emilyxietty/chinglish">
-    ![78c8ea85ccc2bd8a5e2009947d7c94c9](https://user-images.githubusercontent.com/40601891/164949662-dbb1b305-f348-49f5-9911-302d1a727f3e.jpg)
+![78c8ea85ccc2bd8a5e2009947d7c94c9 jpg 48x48](https://user-images.githubusercontent.com/40601891/164949747-6472382a-c353-44d6-9db1-91a7f447aaab.png)
 
 
   </a>
