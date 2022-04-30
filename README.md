@@ -13,7 +13,7 @@
 
 
 <h3 align="center">Chinglish</h3>
-      <a href="https://chrome.google.com/webstore/detail/chinglish/llccnakbjfgdfpibogafdmmfnhhiioep?hl=en-US"><strong>Now available on the Chrome Webstore </strong></a>
+      <a href="https://chrome.google.com/webstore/detail/chinglish/llccnakbjfgdfpibogafdmmfnhhiioep?hl=en-US" target="_blank"><strong>Now available on the Chrome Webstore </strong></a>
 
 
   <p align="center">
