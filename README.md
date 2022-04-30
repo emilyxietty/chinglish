@@ -17,6 +17,8 @@
   <p align="center">
     Inspired by Duolingo's Chinese vocabulary progression. Changes English words according to the selected Duolingo categories and replaces them with Chinese words. This will help you get more used to reading Chinese in everyday contexts, a few words at a time. 🤠 Happy learning!
     <br>
+    Now available on the <a href"https://chrome.google.com/webstore/detail/chinglish/llccnakbjfgdfpibogafdmmfnhhiioep?hl=en-US">Chrome Webstore</a>
+    <br>
     <a href="https://github.com/emilyxietty/chinglish/tree/main/chinglish"><strong>Explore the docs »</strong></a>
     <br />
   </p>
